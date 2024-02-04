@@ -1,5 +1,4 @@
-python==3.8
-streamlit==1.18.0
-opencv-python==4.5.3.56
-cvzone==1.4.1
+streamlit==1.29.0
+opencv-python==4.9.0.80
+cvzone==1.6.1
 uuid==1.30
